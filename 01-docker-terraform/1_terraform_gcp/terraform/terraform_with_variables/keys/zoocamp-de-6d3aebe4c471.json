@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "zoocamp-de",
+  "private_key_id": "6d3aebe4c471de9bff0c6eeef794cdc7849da461",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDApVtViZOt3LC8\nYhkML/U9Vb2u9rpFUZ66wj3N6LYAC+gXOqwJ+DYKzhu3pjhUpTvuZMY9XvuqJXMT\nUFawrL3nC+0JmW0PsgeuGGMEhBXqQizt1Ld4c7lVcIfv68ZUAnHEvM9GtV17ed8M\nSSPOXdL5ESP27f3j5fRDFePcV/X2xo3TrlQakOZRhZcRT3bcQRtCfNMpWMu2w4sw\nkoB8QitHcpID7E3vHlw5p0MgpClDUnIFpPpiLJSUnjQ+XUFFb0AjgHCd6PAXCqkm\nL3nK3WxMVUUFpSwo2fyuhRlYQOoKWAXT4Dk/3Yl+0cv/yOfCj2+GywWG6Iq2vUMQ\ndrJydzYjAgMBAAECggEAAYrGpo7qbal4wdFKGXvuWZLXaOzb6BSzkaHtMmS1jEHF\nCB91uPtf1ZgycSigMSTTBQvKBcoTd4om3vIY2xv5jPaJFmIVhuk/h7ZnQy0onNy4\n3CCEnlmbsAXKFTnbGtkp8E+d8V5YoSsEMHTSF9VOU2v3bQMZB1tFto/8ISDNIGj0\nz9wADLHoFgKwrhCZCcR9AyQgv6Cc2OdQsXlfyMV2ORBO2WAy8cCCpgB/keAwBFvK\noNoAsNPSNw4OJj2lP4G6C8MPIzOT2hDYakFBjHLVt8Q5F+RsBBXf2MtQ/I6Mgd0T\nIJEpus5YcPLc4MMufzES6dz//DySlhfWU/aV4kBZIQKBgQDix9dOV5DabpzqoCv8\nmn0Flxrr+XfSr5Qm2JcCCEg8nqElLZQxGx+yDTzzCp5x/yQnmV1/dROzWemEh3oI\n8yPnfRSN+wbz5ODrEhLG79ZrBCFekslcgiVM6pYDrvliFyPcUiOjiWDe+g+IdAZu\nDEJLceHdTkj+K3p2PPmguiGPYQKBgQDZd5zVp5YSYQaJiQy1h+nt492UIgMP+3nD\nAZqjqIfv+bMF61S69SwmVNiWqSGcNxJYv6IBzNSYlKkXkGIL0FdUj95rhe7IPMZ5\nk6mhkWYwPctS6fIPHLcNE79emEqQLhLnEn+GFeCpq5FOb/Fbksegfj+TkeU6E2P+\ngfvbLEeIAwKBgQCnDFPR1njSHdaikbe1C8t6GbNwDUQxQrpb3wFlMtqbJLJJI4jc\nn0E6s7uov7K1AB8OuE8B+yi23U1BHVZMT2WsOBuy9i1J7Nes8JQ6TCLik5lNA80l\nwoxdWxODxRjYI3l76llsNl7QANz+Q5EU8RzIXCvnC6qC513+yK2Msm7UIQKBgQCg\nJDItL+UWkbajr3XZdEXy9fsk68r/iPuIe/TpkeDQ+js4H61co9EoRRDeGZxzkiaD\njlL6KmFgHxFKFfvtoTW+QtfSrGVDtWWe//tJzG3JFqhU3YxwToAKNEGXomQ+On+X\nBAs+rXus1ngBn/PHsJYq/O1KeYSpOMBJGmViaAAhCwJ/DCF1Fe/2syMXkV8gpFn4\nZHH7h4K4Eyh4wlnTd2eJhY7B4ZHl1Ddd3WP6zK5B71XW0Vb+nqCeUpmwpe3N2n6C\nPB3oLlPqu3wR+ocY6K4U6PnP6IaXXeeTN50C5vXchLG0RSieZKJhEwgO0+nvEMhY\n1pnXSQH4cFWbuZ3Mvwvsew==\n-----END PRIVATE KEY-----\n",
+  "client_email": "zc-de-user@zoocamp-de.iam.gserviceaccount.com",
+  "client_id": "101576376545626403828",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/zc-de-user%40zoocamp-de.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
